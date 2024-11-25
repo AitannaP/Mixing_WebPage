@@ -5,7 +5,7 @@ import json
 
 # Replace with your actual client id and secret
 client_id = "8bba093121064231a91f19d7ec70757b"
-client_secret = "899584a8168442cda47824803bfde729"
+client_secret = "enter secret"
 
 # Endpoint for Spotify token access
 token_url = "https://accounts.spotify.com/api/token"
