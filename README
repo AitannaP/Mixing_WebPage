@@ -1,0 +1,23 @@
+Aitanna Parker
+Nov 24 2024
+Code the dream
+
+files to be run:
+- [main.py](main.py)
+- [script.js](script.js)
+- [style.css](style.css)
+- [index.html](index.html)
+
+
+
+Instructions for use
+- install live server on vscode
+- run main.py in terminal
+    - you will be prompted to enter a song title
+    - then, a artist name
+- After those inputs are given, run index.html with Live server
+    - you will see output from spotify API displayed on the screen
+
+
+Long term:
+musixmix_inTotal.ipynb and Music_Mixing_EDA.ipynb explain where I want to take this project. I have coded the formulas all in python and that is the language I am strongest in. I want to be able to do my calculations and then put them onto the webpage displaying results. the overall goal is to display what and where to mix whne mixing a song. The md file explains the concept. The ipynb explains how what i bring to this project. This shows how focused and dedicated i am to the program. 
